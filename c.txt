@@ -1,2 +1,6 @@
 noi dung file C
+<<<<<<< HEAD
 sua boi a (main)
+=======
+sua doi boi beta
+>>>>>>> beta
