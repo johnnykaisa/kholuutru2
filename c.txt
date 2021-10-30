@@ -1,1 +1,2 @@
 noi dung file C
+sua boi a (main)
